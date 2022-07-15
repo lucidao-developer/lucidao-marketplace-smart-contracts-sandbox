@@ -52,9 +52,9 @@ Setup the development environment by following the next instructions:
 
         MNEMONIC=""
 
-- Add a **Ftmscan Api Key**
+- Add a **Polygonscan Api Key**
 
-        FTMSCAN_API_KEY=""
+        POLYGONSCAN_API_KEY=""
 
 - Run the container
 
