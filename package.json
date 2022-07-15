@@ -1,0 +1,75 @@
+{
+  "name": "lucidao-marketplace-smart-contract",
+  "version": "1.0.0",
+  "description": "Smart Contracts for Lucidao Marketplace",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run hardhat-test --silent",
+    "fasttest": "TS_NODE_TRANSPILE_ONLY=1 && npm run hardhat-test && TS_NODE_TRANSPILE_ONLY=0",
+    "verbosetest": "npm run hardhat-test",
+    "hardhat-test": "npx hardhat test",
+    "deployNode": "npx hardhat node",
+    "clean": "rm -rf ./anonymized-contracts/ && rm -rf ./anonymized-scripts && npx hardhat clean",
+    "compile": "npx hardhat compile",
+    "coverage": "npx hardhat coverage --solcoverjs ./.solcover.js --temp artifacts --testfiles \"./test/**/*.ts\"",
+    "anonymize-contracts": "npm run clean && npx ts-node scripts/anonymize-contracts.ts",
+    "lint": "solhint --max-warnings 0 \"contracts/**/*.sol\"",
+    "anonymizeMumbaiDeployEverything": "npm run anonymize-contracts && npx hardhat run --network polygonTestnet anonymized-scripts/anonymizeDeployEverything.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucidao-developer/lucidao-marketplace.git"
+  },
+  "keywords": [
+    "lucidao",
+    "marketplace",
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts"
+  ],
+  "author": "Lucidao Developer",
+  "license": "(MIT)",
+  "bugs": {
+    "url": "https://github.com/lucidao-developer/lucidao-marketplace/issues"
+  },
+  "homepage": "https://github.com/lucidao-developer/lucidao-marketplace#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.7.0",
+    "@openzeppelin/contracts-upgradeable": "^4.7.0",
+    "@openzeppelin/hardhat-upgrades": "^1.19.0",
+    "@typechain/ethers-v5": "^7.2.0",
+    "@typechain/hardhat": "^2.3.1",
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "@types/node": "^16.11.7",
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.1",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.4.1",
+    "eslint-plugin-promise": "^5.2.0",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.9.9",
+    "hardhat-gas-reporter": "^1.0.8",
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.19",
+    "solhint": "^3.3.7",
+    "solidity-coverage": "^0.7.21",
+    "ts-node": "^10.8.1",
+    "typechain": "^5.2.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "yesno": "^0.4.0"
+  }
+}

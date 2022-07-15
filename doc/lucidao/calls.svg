@@ -1,0 +1,842 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1217pt" height="3557pt" viewBox="0.00 0.00 1216.57 3557.00">
+<g id="graph0" class="graph" transform="translate(4,3553) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-3553 1212.57,-3553 1212.57,4 -4,4" style=""/>
+<g id="clust1" class="cluster" data-name="clusterLucidaoNftCollectionFactory">
+
+<path fill="#445773" stroke="#445773" d="M118.16,-201C118.16,-201 1184.3,-201 1184.3,-201 1190.3,-201 1196.3,-207 1196.3,-213 1196.3,-213 1196.3,-536 1196.3,-536 1196.3,-542 1190.3,-548 1184.3,-548 1184.3,-548 118.16,-548 118.16,-548 112.16,-548 106.16,-542 106.16,-536 106.16,-536 106.16,-213 106.16,-213 106.16,-207 112.16,-201 118.16,-201" style=""/>
+<text text-anchor="middle" x="651.23" y="-531.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LucidaoNftCollectionFactory</text>
+</g>
+<g id="clust2" class="cluster" data-name="clusterLucidaoFeeManager">
+
+<path fill="#445773" stroke="#445773" d="M97.8,-556C97.8,-556 1149.96,-556 1149.96,-556 1155.96,-556 1161.96,-562 1161.96,-568 1161.96,-568 1161.96,-999 1161.96,-999 1161.96,-1005 1155.96,-1011 1149.96,-1011 1149.96,-1011 97.8,-1011 97.8,-1011 91.8,-1011 85.8,-1005 85.8,-999 85.8,-999 85.8,-568 85.8,-568 85.8,-562 91.8,-556 97.8,-556" style=""/>
+<text text-anchor="middle" x="623.88" y="-994.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LucidaoFeeManager</text>
+</g>
+<g id="clust3" class="cluster" data-name="clusterLucidaoNftCollection">
+
+<path fill="#445773" stroke="#445773" d="M20,-1513C20,-1513 664.45,-1513 664.45,-1513 670.45,-1513 676.45,-1519 676.45,-1525 676.45,-1525 676.45,-2172 676.45,-2172 676.45,-2178 670.45,-2184 664.45,-2184 664.45,-2184 20,-2184 20,-2184 14,-2184 8,-2178 8,-2172 8,-2172 8,-1525 8,-1525 8,-1519 14,-1513 20,-1513" style=""/>
+<text text-anchor="middle" x="342.22" y="-2167.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LucidaoNftCollection</text>
+</g>
+<g id="clust4" class="cluster" data-name="clusterLucidaoNftCollateralRetriever">
+
+<path fill="#445773" stroke="#445773" d="M121.37,-2277C121.37,-2277 1188.57,-2277 1188.57,-2277 1194.57,-2277 1200.57,-2283 1200.57,-2289 1200.57,-2289 1200.57,-2566 1200.57,-2566 1200.57,-2572 1194.57,-2578 1188.57,-2578 1188.57,-2578 121.37,-2578 121.37,-2578 115.37,-2578 109.37,-2572 109.37,-2566 109.37,-2566 109.37,-2289 109.37,-2289 109.37,-2283 115.37,-2277 121.37,-2277" style=""/>
+<text text-anchor="middle" x="654.97" y="-2561.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LucidaoNftCollateralRetriever</text>
+</g>
+<g id="clust5" class="cluster" data-name="clusterLucidaoLicenseManager">
+
+<path fill="#445773" stroke="#445773" d="M59.15,-2586C59.15,-2586 360.72,-2586 360.72,-2586 366.72,-2586 372.72,-2592 372.72,-2598 372.72,-2598 372.72,-2975 372.72,-2975 372.72,-2981 366.72,-2987 360.72,-2987 360.72,-2987 59.15,-2987 59.15,-2987 53.15,-2987 47.15,-2981 47.15,-2975 47.15,-2975 47.15,-2598 47.15,-2598 47.15,-2592 53.15,-2586 59.15,-2586" style=""/>
+<text text-anchor="middle" x="209.94" y="-2970.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">LucidaoLicenseManager</text>
+</g>
+<g id="clust6" class="cluster" data-name="clusterILicenseManager">
+
+<path fill="#445773" stroke="#445773" d="M127.29,-2995C127.29,-2995 292.58,-2995 292.58,-2995 298.58,-2995 304.58,-3001 304.58,-3007 304.58,-3007 304.58,-3114 304.58,-3114 304.58,-3120 298.58,-3126 292.58,-3126 292.58,-3126 127.29,-3126 127.29,-3126 121.29,-3126 115.29,-3120 115.29,-3114 115.29,-3114 115.29,-3007 115.29,-3007 115.29,-3001 121.29,-2995 127.29,-2995" style=""/>
+<text text-anchor="middle" x="209.94" y="-3109.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">ILicenseManager  (iface)</text>
+</g>
+<g id="clust7" class="cluster" data-name="clusterIStakingService">
+
+<path fill="#445773" stroke="#445773" d="M147.64,-3134C147.64,-3134 272.23,-3134 272.23,-3134 278.23,-3134 284.23,-3140 284.23,-3146 284.23,-3146 284.23,-3253 284.23,-3253 284.23,-3259 278.23,-3265 272.23,-3265 272.23,-3265 147.64,-3265 147.64,-3265 141.64,-3265 135.64,-3259 135.64,-3253 135.64,-3253 135.64,-3146 135.64,-3146 135.64,-3140 141.64,-3134 147.64,-3134" style=""/>
+<text text-anchor="middle" x="209.94" y="-3248.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IStakingService  (iface)</text>
+</g>
+<g id="clust8" class="cluster" data-name="clusterINftCollectionVaultService">
+
+<path fill="#445773" stroke="#445773" d="M492.69,-1019C492.69,-1019 700.89,-1019 700.89,-1019 706.89,-1019 712.89,-1025 712.89,-1031 712.89,-1031 712.89,-1354 712.89,-1354 712.89,-1360 706.89,-1366 700.89,-1366 700.89,-1366 492.69,-1366 492.69,-1366 486.69,-1366 480.69,-1360 480.69,-1354 480.69,-1354 480.69,-1031 480.69,-1031 480.69,-1025 486.69,-1019 492.69,-1019" style=""/>
+<text text-anchor="middle" x="596.79" y="-1349.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">INftCollectionVaultService  (iface)</text>
+</g>
+<g id="clust9" class="cluster" data-name="clusterIFeeManager">
+
+<path fill="#445773" stroke="#445773" d="M97.8,-3273C97.8,-3273 322.07,-3273 322.07,-3273 328.07,-3273 334.07,-3279 334.07,-3285 334.07,-3285 334.07,-3392 334.07,-3392 334.07,-3398 328.07,-3404 322.07,-3404 322.07,-3404 97.8,-3404 97.8,-3404 91.8,-3404 85.8,-3398 85.8,-3392 85.8,-3392 85.8,-3285 85.8,-3285 85.8,-3279 91.8,-3273 97.8,-3273" style=""/>
+<text text-anchor="middle" x="209.94" y="-3387.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IFeeManager  (iface)</text>
+</g>
+<g id="clust10" class="cluster" data-name="clusterEnumerableSetUpgradeable.AddressSet">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M489.57,-8C489.57,-8 705.01,-8 705.01,-8 711.01,-8 717.01,-14 717.01,-20 717.01,-20 717.01,-181 717.01,-181 717.01,-187 711.01,-193 705.01,-193 705.01,-193 489.57,-193 489.57,-193 483.57,-193 477.57,-187 477.57,-181 477.57,-181 477.57,-20 477.57,-20 477.57,-14 483.57,-8 489.57,-8" style=""/>
+<text text-anchor="middle" x="597.29" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">EnumerableSetUpgradeable.AddressSet</text>
+</g>
+<g id="clust11" class="cluster" data-name="clusterCounters.Counter">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M551.14,-1374C551.14,-1374 642.44,-1374 642.44,-1374 648.44,-1374 654.44,-1380 654.44,-1386 654.44,-1386 654.44,-1493 654.44,-1493 654.44,-1499 648.44,-1505 642.44,-1505 642.44,-1505 551.14,-1505 551.14,-1505 545.14,-1505 539.14,-1499 539.14,-1493 539.14,-1493 539.14,-1386 539.14,-1386 539.14,-1380 545.14,-1374 551.14,-1374" style=""/>
+<text text-anchor="middle" x="596.79" y="-1488.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">Counters.Counter</text>
+</g>
+<g id="clust12" class="cluster" data-name="clusterOwnableUpgradeable">
+
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M510.9,-2192C510.9,-2192 682.68,-2192 682.68,-2192 688.68,-2192 694.68,-2198 694.68,-2204 694.68,-2204 694.68,-2257 694.68,-2257 694.68,-2263 688.68,-2269 682.68,-2269 682.68,-2269 510.9,-2269 510.9,-2269 504.9,-2269 498.9,-2263 498.9,-2257 498.9,-2257 498.9,-2204 498.9,-2204 498.9,-2198 504.9,-2192 510.9,-2192" style=""/>
+<text text-anchor="middle" x="596.79" y="-2252.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">OwnableUpgradeable</text>
+</g>
+<g id="clust13" class="cluster" data-name="cluster_01">
+
+<polygon fill="#2e3e56" stroke="black" points="136.94,-3412 136.94,-3541 631.79,-3541 631.79,-3412 136.94,-3412" style=""/>
+<text text-anchor="middle" x="384.36" y="-3524.4" font-family="Times,serif" font-size="14.00" style="">Legend</text>
+</g>
+<!-- LucidaoNftCollectionFactory.initialize -->
+<g id="node1" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-497" rx="44.65" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-492.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init -->
+<g id="node2" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-497" rx="152.79" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-492.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoNftCollectionFactory_init</text>
+</g>
+<!-- LucidaoNftCollectionFactory.initialize&#45;&gt;LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init -->
+<g id="edge1" class="edge" data-name="LucidaoNftCollectionFactory.initialize-&gt;LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.08,-497C298.85,-497 368.57,-497 433.57,-497" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="433.96,-500.5 443.96,-497 433.96,-493.5 433.96,-500.5" style=""/>
+</g>
+<!-- LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init_unchained -->
+<g id="node3" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-443" rx="197.32" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-438.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoNftCollectionFactory_init_unchained</text>
+</g>
+<!-- LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init&#45;&gt;LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init_unchained -->
+<g id="edge3" class="edge" data-name="LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init-&gt;LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M695.41,-483.15C725.63,-478.9 759.04,-474.22 789.71,-470 815.39,-466.46 842.92,-462.72 869.11,-459.19" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="869.63,-462.65 879.07,-457.84 868.69,-455.71 869.63,-462.65" style=""/>
+</g>
+<!-- LucidaoNftCollectionFactory.__Ownable_init_unchained -->
+<g id="node9" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.__Ownable_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-497" rx="117.55" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-492.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init_unchained</text>
+</g>
+<!-- LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init&#45;&gt;LucidaoNftCollectionFactory.__Ownable_init_unchained -->
+<g id="edge2" class="edge" data-name="LucidaoNftCollectionFactory.__LucidaoNftCollectionFactory_init-&gt;LucidaoNftCollectionFactory.__Ownable_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M749.48,-497C787.03,-497 826.88,-497 863.11,-497" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="863.23,-500.5 873.23,-497 863.23,-493.5 863.23,-500.5" style=""/>
+</g>
+<!-- LucidaoNftCollectionFactory.createCollection -->
+<g id="node4" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.createCollection">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-443" rx="74.13" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-438.8" font-family="Times,serif" font-size="14.00" style="">createCollection</text>
+</g>
+<!-- EnumerableSetUpgradeable.AddressSet.add -->
+<g id="node76" class="node" pointer-events="visible" data-name="EnumerableSetUpgradeable.AddressSet.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-142" rx="27" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-137.8" font-family="Times,serif" font-size="14.00" style="">add</text>
+</g>
+<!-- LucidaoNftCollectionFactory.createCollection&#45;&gt;EnumerableSetUpgradeable.AddressSet.add -->
+<g id="edge4" class="edge" data-name="LucidaoNftCollectionFactory.createCollection-&gt;EnumerableSetUpgradeable.AddressSet.add">
+
+<path fill="none" stroke="white" stroke-width="2" d="M274.84,-451.86C317.02,-453.91 370.48,-448.61 403.87,-416 474.45,-347.09 376.53,-272.62 439.87,-197 469.57,-161.55 523.63,-148.94 559.64,-144.46" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="560.17,-147.92 569.73,-143.35 559.41,-140.96 560.17,-147.92" style=""/>
+</g>
+<!-- LucidaoNftCollectionFactory.setLicenseManager -->
+<g id="node5" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.setLicenseManager">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-389" rx="86.21" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-384.8" font-family="Times,serif" font-size="14.00" style="">setLicenseManager</text>
+</g>
+<!-- LucidaoNftCollectionFactory.setNftVaultAddress -->
+<g id="node6" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.setNftVaultAddress">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-335" rx="87.95" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-330.8" font-family="Times,serif" font-size="14.00" style="">setNftVaultAddress</text>
+</g>
+<!-- LucidaoNftCollectionFactory.isAKnownCollection -->
+<g id="node7" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.isAKnownCollection">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-281" rx="93.22" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-276.8" font-family="Times,serif" font-size="14.00" style="">isAKnownCollection</text>
+</g>
+<!-- EnumerableSetUpgradeable.AddressSet.contains -->
+<g id="node77" class="node" pointer-events="visible" data-name="EnumerableSetUpgradeable.AddressSet.contains">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-88" rx="43.44" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-83.8" font-family="Times,serif" font-size="14.00" style="">contains</text>
+</g>
+<!-- LucidaoNftCollectionFactory.isAKnownCollection&#45;&gt;EnumerableSetUpgradeable.AddressSet.contains -->
+<g id="edge5" class="edge" data-name="LucidaoNftCollectionFactory.isAKnownCollection-&gt;EnumerableSetUpgradeable.AddressSet.contains">
+
+<path fill="none" stroke="white" stroke-width="2" d="M293.2,-289.07C331.13,-288.31 374.21,-280.45 403.87,-254 451.5,-211.53 392.94,-158.24 439.87,-115 467.71,-89.36 510.73,-83.5 544.54,-83.55" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="544.64,-87.05 554.71,-83.74 544.78,-80.05 544.64,-87.05" style=""/>
+</g>
+<!-- LucidaoNftCollectionFactory.createdContractCount -->
+<g id="node8" class="node" pointer-events="visible" data-name="LucidaoNftCollectionFactory.createdContractCount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-227" rx="95.55" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-222.8" font-family="Times,serif" font-size="14.00" style="">createdContractCount</text>
+</g>
+<!-- EnumerableSetUpgradeable.AddressSet.length -->
+<g id="node78" class="node" pointer-events="visible" data-name="EnumerableSetUpgradeable.AddressSet.length">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-34" rx="35.35" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-29.8" font-family="Times,serif" font-size="14.00" style="">length</text>
+</g>
+<!-- LucidaoNftCollectionFactory.createdContractCount&#45;&gt;EnumerableSetUpgradeable.AddressSet.length -->
+<g id="edge6" class="edge" data-name="LucidaoNftCollectionFactory.createdContractCount-&gt;EnumerableSetUpgradeable.AddressSet.length">
+
+<path fill="none" stroke="white" stroke-width="2" d="M229,-209.29C265.45,-174.66 351.9,-98.13 439.87,-61 475.73,-45.87 519.65,-39.21 551.73,-36.29" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="552.02,-39.78 561.7,-35.47 551.45,-32.8 552.02,-39.78" style=""/>
+</g>
+<!-- LucidaoFeeManager.initialize -->
+<g id="node10" class="node" pointer-events="visible" data-name="LucidaoFeeManager.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-960" rx="44.65" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-955.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- LucidaoFeeManager.__LucidaoFeeManager_init -->
+<g id="node11" class="node" pointer-events="visible" data-name="LucidaoFeeManager.__LucidaoFeeManager_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-960" rx="118.1" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-955.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoFeeManager_init</text>
+</g>
+<!-- LucidaoFeeManager.initialize&#45;&gt;LucidaoFeeManager.__LucidaoFeeManager_init -->
+<g id="edge7" class="edge" data-name="LucidaoFeeManager.initialize-&gt;LucidaoFeeManager.__LucidaoFeeManager_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.08,-960C306.75,-960 394.61,-960 468.17,-960" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="468.44,-963.5 478.44,-960 468.44,-956.5 468.44,-963.5" style=""/>
+</g>
+<!-- LucidaoFeeManager.__LucidaoFeeManager_init_unchained -->
+<g id="node12" class="node" pointer-events="visible" data-name="LucidaoFeeManager.__LucidaoFeeManager_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-906" rx="162.63" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-901.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoFeeManager_init_unchained</text>
+</g>
+<!-- LucidaoFeeManager.__LucidaoFeeManager_init&#45;&gt;LucidaoFeeManager.__LucidaoFeeManager_init_unchained -->
+<g id="edge9" class="edge" data-name="LucidaoFeeManager.__LucidaoFeeManager_init-&gt;LucidaoFeeManager.__LucidaoFeeManager_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M683.76,-947.8C716.87,-943.12 755.04,-937.77 789.71,-933 817.87,-929.12 848.26,-925 876.66,-921.17" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="877.17,-924.63 886.61,-919.83 876.24,-917.69 877.17,-924.63" style=""/>
+</g>
+<!-- LucidaoFeeManager.__Ownable_init_unchained -->
+<g id="node22" class="node" pointer-events="visible" data-name="LucidaoFeeManager.__Ownable_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-960" rx="117.55" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-955.8" font-family="Times,serif" font-size="14.00" style="">__Ownable_init_unchained</text>
+</g>
+<!-- LucidaoFeeManager.__LucidaoFeeManager_init&#45;&gt;LucidaoFeeManager.__Ownable_init_unchained -->
+<g id="edge8" class="edge" data-name="LucidaoFeeManager.__LucidaoFeeManager_init-&gt;LucidaoFeeManager.__Ownable_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M715.24,-960C761.82,-960 815.5,-960 863,-960" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="863.03,-963.5 873.03,-960 863.03,-956.5 863.03,-963.5" style=""/>
+</g>
+<!-- LucidaoFeeManager.receiveZeroExFeeCallback -->
+<g id="node13" class="node" pointer-events="visible" data-name="LucidaoFeeManager.receiveZeroExFeeCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-906" rx="116.27" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-901.8" font-family="Times,serif" font-size="14.00" style="">receiveZeroExFeeCallback</text>
+</g>
+<!-- LucidaoFeeManager._payoutFees -->
+<g id="node17" class="node" pointer-events="visible" data-name="LucidaoFeeManager._payoutFees">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-825" rx="59.69" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-820.8" font-family="Times,serif" font-size="14.00" style="">_payoutFees</text>
+</g>
+<!-- LucidaoFeeManager.receiveZeroExFeeCallback&#45;&gt;LucidaoFeeManager._payoutFees -->
+<g id="edge10" class="edge" data-name="LucidaoFeeManager.receiveZeroExFeeCallback-&gt;LucidaoFeeManager._payoutFees">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M276.51,-891.15C314.02,-885.53 361.83,-878.81 403.87,-870 448.19,-860.71 497.32,-846.81 534.78,-836.65" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="535.79,-840 544.54,-834.02 533.97,-833.24 535.79,-840" style=""/>
+</g>
+<!-- LucidaoFeeManager.receiveZeroExFeeCallback&#45;&gt;LucidaoFeeManager._payoutFees -->
+<g id="edge11" class="edge" data-name="LucidaoFeeManager.receiveZeroExFeeCallback-&gt;LucidaoFeeManager._payoutFees">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M322.84,-901.69C349.52,-898.12 377.81,-893.47 403.87,-888 457.67,-876.72 518.58,-858.66 557.07,-844.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="558.73,-847.53 566.83,-840.7 556.24,-840.99 558.73,-847.53" style=""/>
+</g>
+<!-- LucidaoFeeManager.setGovernanceTreasury -->
+<g id="node14" class="node" pointer-events="visible" data-name="LucidaoFeeManager.setGovernanceTreasury">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-852" rx="102.95" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-847.8" font-family="Times,serif" font-size="14.00" style="">setGovernanceTreasury</text>
+</g>
+<!-- LucidaoFeeManager.setLicenseManager -->
+<g id="node15" class="node" pointer-events="visible" data-name="LucidaoFeeManager.setLicenseManager">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-798" rx="86.21" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-793.8" font-family="Times,serif" font-size="14.00" style="">setLicenseManager</text>
+</g>
+<!-- LucidaoFeeManager._transferEth -->
+<g id="node16" class="node" pointer-events="visible" data-name="LucidaoFeeManager._transferEth">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-798" rx="58.53" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-793.8" font-family="Times,serif" font-size="14.00" style="">_transferEth</text>
+</g>
+<!-- LucidaoFeeManager._payoutFees&#45;&gt;LucidaoFeeManager._transferEth -->
+<g id="edge12" class="edge" data-name="LucidaoFeeManager._payoutFees-&gt;LucidaoFeeManager._transferEth">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M655.26,-821.05C726.51,-816.14 847.75,-807.8 923.15,-802.61" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="923.74,-806.08 933.47,-801.9 923.25,-799.09 923.74,-806.08" style=""/>
+</g>
+<!-- LucidaoFeeManager.payable -->
+<g id="node23" class="node" pointer-events="visible" data-name="LucidaoFeeManager.payable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-852" rx="41.13" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-847.8" font-family="Times,serif" font-size="14.00" style="">payable</text>
+</g>
+<!-- LucidaoFeeManager._payoutFees&#45;&gt;LucidaoFeeManager.payable -->
+<g id="edge13" class="edge" data-name="LucidaoFeeManager._payoutFees-&gt;LucidaoFeeManager.payable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M655.26,-828.95C732.15,-834.25 867.24,-843.54 940.13,-848.56" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="940.2,-852.07 950.42,-849.27 940.68,-845.09 940.2,-852.07" style=""/>
+</g>
+<!-- LucidaoFeeManager.IERC20Upgradeable -->
+<g id="node24" class="node" pointer-events="visible" data-name="LucidaoFeeManager.IERC20Upgradeable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-744" rx="92.04" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-739.8" font-family="Times,serif" font-size="14.00" style="">IERC20Upgradeable</text>
+</g>
+<!-- LucidaoFeeManager._payoutFees&#45;&gt;LucidaoFeeManager.IERC20Upgradeable -->
+<g id="edge14" class="edge" data-name="LucidaoFeeManager._payoutFees-&gt;LucidaoFeeManager.IERC20Upgradeable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M638.19,-811.84C676.75,-799.72 736.66,-781.98 789.71,-771 825.23,-763.65 864.72,-757.83 899.19,-753.51" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="899.75,-756.97 909.24,-752.28 898.89,-750.02 899.75,-756.97" style=""/>
+</g>
+<!-- LucidaoFeeManager.&lt;Receive Ether&gt; -->
+<g id="node18" class="node" pointer-events="visible" data-name="LucidaoFeeManager.&lt;Receive Ether&gt;">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="209.94" cy="-744" rx="76.21" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-739.8" font-family="Times,serif" font-size="14.00" style="">&lt;Receive Ether&gt;</text>
+</g>
+<!-- LucidaoFeeManager.isRedemptionFeePaid -->
+<g id="node19" class="node" pointer-events="visible" data-name="LucidaoFeeManager.isRedemptionFeePaid">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-690" rx="95.58" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-685.8" font-family="Times,serif" font-size="14.00" style="">isRedemptionFeePaid</text>
+</g>
+<!-- LucidaoFeeManager.payRedemptionFee -->
+<g id="node20" class="node" pointer-events="visible" data-name="LucidaoFeeManager.payRedemptionFee">
+
+<ellipse fill="#ffbdb9" stroke="brown" stroke-width="3" cx="209.94" cy="-636" rx="86.26" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-631.8" font-family="Times,serif" font-size="14.00" style="">payRedemptionFee</text>
+</g>
+<!-- LucidaoFeeManager.payRedemptionFee&#45;&gt;LucidaoFeeManager._payoutFees -->
+<g id="edge15" class="edge" data-name="LucidaoFeeManager.payRedemptionFee-&gt;LucidaoFeeManager._payoutFees">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M295.91,-637.66C330.61,-640.9 370.37,-648.03 403.87,-663 475.86,-695.15 541.91,-762.71 574.49,-799.61" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="572.09,-802.19 581.29,-807.43 577.37,-797.59 572.09,-802.19" style=""/>
+</g>
+<!-- LucidaoFeeManager.setRedemptionFee -->
+<g id="node21" class="node" pointer-events="visible" data-name="LucidaoFeeManager.setRedemptionFee">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-582" rx="82.82" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-577.8" font-family="Times,serif" font-size="14.00" style="">setRedemptionFee</text>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt; -->
+<g id="node25" class="node" pointer-events="visible" data-name="LucidaoNftCollection.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-2133" rx="67.54" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2128.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- LucidaoNftCollection._setRoleAdmin -->
+<g id="node37" class="node" pointer-events="visible" data-name="LucidaoNftCollection._setRoleAdmin">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2079" rx="71.81" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2074.8" font-family="Times,serif" font-size="14.00" style="">_setRoleAdmin</text>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt;&#45;&gt;LucidaoNftCollection._setRoleAdmin -->
+<g id="edge16" class="edge" data-name="LucidaoNftCollection.&lt;Constructor&gt;-&gt;LucidaoNftCollection._setRoleAdmin">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M270.05,-2124.74C308.23,-2119.4 358.99,-2112.3 403.87,-2106 443.62,-2100.42 488,-2094.18 524.06,-2089.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="524.58,-2092.57 533.99,-2087.71 523.6,-2085.63 524.58,-2092.57" style=""/>
+</g>
+<!-- LucidaoNftCollection._grantRole -->
+<g id="node38" class="node" pointer-events="visible" data-name="LucidaoNftCollection._grantRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2133" rx="53.89" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2128.8" font-family="Times,serif" font-size="14.00" style="">_grantRole</text>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt;&#45;&gt;LucidaoNftCollection._grantRole -->
+<g id="edge17" class="edge" data-name="LucidaoNftCollection.&lt;Constructor&gt;-&gt;LucidaoNftCollection._grantRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.08,-2119.52C327.97,-2110.64 472.86,-2110.5 548.04,-2119.09" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="547.81,-2122.59 558.17,-2120.36 548.68,-2115.65 547.81,-2122.59" style=""/>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt;&#45;&gt;LucidaoNftCollection._grantRole -->
+<g id="edge18" class="edge" data-name="LucidaoNftCollection.&lt;Constructor&gt;-&gt;LucidaoNftCollection._grantRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M274.92,-2127.82C347.04,-2125.7 463.45,-2125.73 534.46,-2127.9" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="534.49,-2131.4 544.6,-2128.24 534.72,-2124.41 534.49,-2131.4" style=""/>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt;&#45;&gt;LucidaoNftCollection._grantRole -->
+<g id="edge19" class="edge" data-name="LucidaoNftCollection.&lt;Constructor&gt;-&gt;LucidaoNftCollection._grantRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M274.92,-2138.18C347.04,-2140.3 463.45,-2140.27 534.46,-2138.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="534.72,-2141.59 544.6,-2137.76 534.49,-2134.6 534.72,-2141.59" style=""/>
+</g>
+<!-- LucidaoNftCollection.&lt;Constructor&gt;&#45;&gt;LucidaoNftCollection._grantRole -->
+<g id="edge20" class="edge" data-name="LucidaoNftCollection.&lt;Constructor&gt;-&gt;LucidaoNftCollection._grantRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.08,-2146.48C327.97,-2155.36 472.86,-2155.5 548.04,-2146.91" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="548.68,-2150.35 558.17,-2145.64 547.81,-2143.41 548.68,-2150.35" style=""/>
+</g>
+<!-- LucidaoNftCollection.seize -->
+<g id="node26" class="node" pointer-events="visible" data-name="LucidaoNftCollection.seize">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2079" rx="30.17" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2074.8" font-family="Times,serif" font-size="14.00" style="">seize</text>
+</g>
+<!-- LucidaoNftCollection.ownerOf -->
+<g id="node39" class="node" pointer-events="visible" data-name="LucidaoNftCollection.ownerOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1971" rx="45.21" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1966.8" font-family="Times,serif" font-size="14.00" style="">ownerOf</text>
+</g>
+<!-- LucidaoNftCollection.seize&#45;&gt;LucidaoNftCollection.ownerOf -->
+<g id="edge21" class="edge" data-name="LucidaoNftCollection.seize-&gt;LucidaoNftCollection.ownerOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M239.9,-2081.95C279.94,-2084.57 353.04,-2083.94 403.87,-2052 428.3,-2036.66 415.7,-2013.74 439.87,-1998 469.79,-1978.52 509.5,-1971.86 541.36,-1970.02" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="541.57,-1973.52 551.41,-1969.59 541.27,-1966.53 541.57,-1973.52" style=""/>
+</g>
+<!-- LucidaoNftCollection._safeTransfer -->
+<g id="node40" class="node" pointer-events="visible" data-name="LucidaoNftCollection._safeTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2025" rx="64.22" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2020.8" font-family="Times,serif" font-size="14.00" style="">_safeTransfer</text>
+</g>
+<!-- LucidaoNftCollection.seize&#45;&gt;LucidaoNftCollection._safeTransfer -->
+<g id="edge22" class="edge" data-name="LucidaoNftCollection.seize-&gt;LucidaoNftCollection._safeTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M239.7,-2074.98C277.41,-2069.71 345.59,-2060.18 403.87,-2052 445.45,-2046.17 492.09,-2039.61 528.98,-2034.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="529.69,-2037.85 539.11,-2032.99 528.72,-2030.91 529.69,-2037.85" style=""/>
+</g>
+<!-- LucidaoNftCollection._baseURI -->
+<g id="node27" class="node" pointer-events="visible" data-name="LucidaoNftCollection._baseURI">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="209.94" cy="-2025" rx="49.8" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2020.8" font-family="Times,serif" font-size="14.00" style="">_baseURI</text>
+</g>
+<!-- LucidaoNftCollection.safeMint -->
+<g id="node28" class="node" pointer-events="visible" data-name="LucidaoNftCollection.safeMint">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-1971" rx="45.22" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1966.8" font-family="Times,serif" font-size="14.00" style="">safeMint</text>
+</g>
+<!-- LucidaoNftCollection._safeMint -->
+<g id="node41" class="node" pointer-events="visible" data-name="LucidaoNftCollection._safeMint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1863" rx="50.38" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1858.8" font-family="Times,serif" font-size="14.00" style="">_safeMint</text>
+</g>
+<!-- LucidaoNftCollection.safeMint&#45;&gt;LucidaoNftCollection._safeMint -->
+<g id="edge25" class="edge" data-name="LucidaoNftCollection.safeMint-&gt;LucidaoNftCollection._safeMint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M254.61,-1974.67C296.13,-1976.03 358.77,-1972.34 403.87,-1944 428.3,-1928.66 415.7,-1905.74 439.87,-1890 468.21,-1871.55 505.34,-1864.6 536.26,-1862.36" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="536.71,-1865.84 546.49,-1861.77 536.3,-1858.85 536.71,-1865.84" style=""/>
+</g>
+<!-- LucidaoNftCollection._setTokenURI -->
+<g id="node42" class="node" pointer-events="visible" data-name="LucidaoNftCollection._setTokenURI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1917" rx="67.78" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1912.8" font-family="Times,serif" font-size="14.00" style="">_setTokenURI</text>
+</g>
+<!-- LucidaoNftCollection.safeMint&#45;&gt;LucidaoNftCollection._setTokenURI -->
+<g id="edge26" class="edge" data-name="LucidaoNftCollection.safeMint-&gt;LucidaoNftCollection._setTokenURI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M253.09,-1965.11C292.18,-1959.65 351.96,-1951.28 403.87,-1944 444.53,-1938.29 490.04,-1931.89 526.53,-1926.76" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="527.16,-1930.2 536.57,-1925.34 526.18,-1923.27 527.16,-1930.2" style=""/>
+</g>
+<!-- Counters.Counter.current -->
+<g id="node79" class="node" pointer-events="visible" data-name="Counters.Counter.current">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1454" rx="38.26" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1449.8" font-family="Times,serif" font-size="14.00" style="">current</text>
+</g>
+<!-- LucidaoNftCollection.safeMint&#45;&gt;Counters.Counter.current -->
+<g id="edge23" class="edge" data-name="LucidaoNftCollection.safeMint-&gt;Counters.Counter.current">
+
+<path fill="none" stroke="white" stroke-width="2" d="M251.41,-1978.47C295.63,-1984.04 365.31,-1984.81 403.87,-1944 470.5,-1873.5 380.62,-1585.8 439.87,-1509 465.49,-1475.8 512.64,-1462.58 548.41,-1457.35" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="549.17,-1460.78 558.63,-1456.02 548.27,-1453.84 549.17,-1460.78" style=""/>
+</g>
+<!-- Counters.Counter.increment -->
+<g id="node80" class="node" pointer-events="visible" data-name="Counters.Counter.increment">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1400" rx="49.8" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1395.8" font-family="Times,serif" font-size="14.00" style="">increment</text>
+</g>
+<!-- LucidaoNftCollection.safeMint&#45;&gt;Counters.Counter.increment -->
+<g id="edge24" class="edge" data-name="LucidaoNftCollection.safeMint-&gt;Counters.Counter.increment">
+
+<path fill="none" stroke="white" stroke-width="2" d="M251.51,-1978.56C295.82,-1984.22 365.58,-1985.06 403.87,-1944 482.43,-1859.78 362.69,-1512.48 439.87,-1427 464.32,-1399.93 505.34,-1393.67 539.18,-1393.93" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="539.33,-1397.43 549.42,-1394.2 539.52,-1390.43 539.33,-1397.43" style=""/>
+</g>
+<!-- LucidaoNftCollection._beforeTokenTransfer -->
+<g id="node29" class="node" pointer-events="visible" data-name="LucidaoNftCollection._beforeTokenTransfer">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="209.94" cy="-1917" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1912.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- LucidaoNftCollection.hasRole -->
+<g id="node43" class="node" pointer-events="visible" data-name="LucidaoNftCollection.hasRole">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1809" rx="42.29" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1804.8" font-family="Times,serif" font-size="14.00" style="">hasRole</text>
+</g>
+<!-- LucidaoNftCollection._beforeTokenTransfer&#45;&gt;LucidaoNftCollection.hasRole -->
+<g id="edge28" class="edge" data-name="LucidaoNftCollection._beforeTokenTransfer-&gt;LucidaoNftCollection.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M302.72,-1911.14C336.66,-1907.68 374.09,-1899.71 403.87,-1881 428.3,-1865.66 415.7,-1842.74 439.87,-1827 472.28,-1805.9 516.19,-1799.84 549.16,-1800.16" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="549.34,-1803.66 559.45,-1800.47 549.56,-1796.67 549.34,-1803.66" style=""/>
+</g>
+<!-- LucidaoNftCollection._beforeTokenTransfer&#45;&gt;LucidaoNftCollection.hasRole -->
+<g id="edge29" class="edge" data-name="LucidaoNftCollection._beforeTokenTransfer-&gt;LucidaoNftCollection.hasRole">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M285,-1928.63C323.1,-1928.17 368.79,-1921.04 403.87,-1899 428.3,-1883.66 415.7,-1860.74 439.87,-1845 471.35,-1824.51 513.67,-1818.2 546.28,-1815.41" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="546.8,-1818.88 556.5,-1814.61 546.25,-1811.9 546.8,-1818.88" style=""/>
+</g>
+<!-- INftCollectionVaultService._beforeTokenTransfer -->
+<g id="node68" class="node" pointer-events="visible" data-name="INftCollectionVaultService._beforeTokenTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1315" rx="97.8" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1310.8" font-family="Times,serif" font-size="14.00" style="">_beforeTokenTransfer</text>
+</g>
+<!-- LucidaoNftCollection._beforeTokenTransfer&#45;&gt;INftCollectionVaultService._beforeTokenTransfer -->
+<g id="edge27" class="edge" data-name="LucidaoNftCollection._beforeTokenTransfer-&gt;INftCollectionVaultService._beforeTokenTransfer">
+
+<path fill="none" stroke="white" stroke-width="2" d="M290.08,-1927.35C329.86,-1927.85 375.5,-1920.43 403.87,-1890 482.87,-1805.28 369.74,-1462.18 439.87,-1370 455.9,-1348.93 480.62,-1335.91 505.68,-1327.86" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="506.69,-1331.21 515.28,-1325.02 504.7,-1324.5 506.69,-1331.21" style=""/>
+</g>
+<!-- LucidaoNftCollection._burn -->
+<g id="node30" class="node" pointer-events="visible" data-name="LucidaoNftCollection._burn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="209.94" cy="-1809" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1804.8" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- INftCollectionVaultService._burn -->
+<g id="node69" class="node" pointer-events="visible" data-name="INftCollectionVaultService._burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1207" rx="33.63" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1202.8" font-family="Times,serif" font-size="14.00" style="">_burn</text>
+</g>
+<!-- LucidaoNftCollection._burn&#45;&gt;INftCollectionVaultService._burn -->
+<g id="edge30" class="edge" data-name="LucidaoNftCollection._burn-&gt;INftCollectionVaultService._burn">
+
+<path fill="none" stroke="white" stroke-width="2" d="M241.62,-1815.18C284.76,-1821.88 362.66,-1826.35 403.87,-1782 486.94,-1692.59 358.27,-1324.74 439.87,-1234 467.96,-1202.77 518.12,-1199.21 553.97,-1201.41" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="553.88,-1204.92 564.13,-1202.21 554.43,-1197.94 553.88,-1204.92" style=""/>
+</g>
+<!-- LucidaoNftCollection.tokenURI -->
+<g id="node31" class="node" pointer-events="visible" data-name="LucidaoNftCollection.tokenURI">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-1755" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1750.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- INftCollectionVaultService.tokenURI -->
+<g id="node70" class="node" pointer-events="visible" data-name="INftCollectionVaultService.tokenURI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1153" rx="49.24" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1148.8" font-family="Times,serif" font-size="14.00" style="">tokenURI</text>
+</g>
+<!-- LucidaoNftCollection.tokenURI&#45;&gt;INftCollectionVaultService.tokenURI -->
+<g id="edge31" class="edge" data-name="LucidaoNftCollection.tokenURI-&gt;INftCollectionVaultService.tokenURI">
+
+<path fill="none" stroke="white" stroke-width="2" d="M254.38,-1762.94C298.81,-1768.29 366.46,-1768.26 403.87,-1728 486.94,-1638.59 358.27,-1270.74 439.87,-1180 464.43,-1152.7 505.85,-1146.54 539.83,-1146.9" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="540.01,-1150.41 550.11,-1147.2 540.22,-1143.41 540.01,-1150.41" style=""/>
+</g>
+<!-- LucidaoNftCollection.supportsInterface -->
+<g id="node32" class="node" pointer-events="visible" data-name="LucidaoNftCollection.supportsInterface">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-1863" rx="78.13" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1858.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- LucidaoNftCollection.type -->
+<g id="node44" class="node" pointer-events="visible" data-name="LucidaoNftCollection.type">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1755" rx="27.83" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1750.8" font-family="Times,serif" font-size="14.00" style="">type</text>
+</g>
+<!-- LucidaoNftCollection.supportsInterface&#45;&gt;LucidaoNftCollection.type -->
+<g id="edge32" class="edge" data-name="LucidaoNftCollection.supportsInterface-&gt;LucidaoNftCollection.type">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M286.87,-1866.54C324.59,-1864.93 369.36,-1857.68 403.87,-1836 428.3,-1820.66 415.7,-1797.74 439.87,-1782 475.5,-1758.8 525.03,-1753.79 558.64,-1753.44" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="558.94,-1756.95 568.95,-1753.48 558.96,-1749.95 558.94,-1756.95" style=""/>
+</g>
+<!-- INftCollectionVaultService.supportsInterface -->
+<g id="node71" class="node" pointer-events="visible" data-name="INftCollectionVaultService.supportsInterface">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-1261" rx="78.13" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1256.8" font-family="Times,serif" font-size="14.00" style="">supportsInterface</text>
+</g>
+<!-- LucidaoNftCollection.supportsInterface&#45;&gt;INftCollectionVaultService.supportsInterface -->
+<g id="edge33" class="edge" data-name="LucidaoNftCollection.supportsInterface-&gt;INftCollectionVaultService.supportsInterface">
+
+<path fill="none" stroke="white" stroke-width="2" d="M275.41,-1872.85C318.13,-1875.41 371.99,-1870.32 403.87,-1836 486.94,-1746.59 358.27,-1378.74 439.87,-1288 458.04,-1267.8 485.43,-1259.18 512.21,-1256.2" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="512.76,-1259.67 522.42,-1255.33 512.16,-1252.7 512.76,-1259.67" style=""/>
+</g>
+<!-- LucidaoNftCollection.getVaultServiceDeadline -->
+<g id="node33" class="node" pointer-events="visible" data-name="LucidaoNftCollection.getVaultServiceDeadline">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-1701" rx="108.2" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1696.8" font-family="Times,serif" font-size="14.00" style="">getVaultServiceDeadline</text>
+</g>
+<!-- LucidaoNftCollection.setVaultServiceDeadline -->
+<g id="node34" class="node" pointer-events="visible" data-name="LucidaoNftCollection.setVaultServiceDeadline">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-1647" rx="107.06" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1642.8" font-family="Times,serif" font-size="14.00" style="">setVaultServiceDeadline</text>
+</g>
+<!-- LucidaoNftCollection.addWhitelistAddressesForMinterRole -->
+<g id="node35" class="node" pointer-events="visible" data-name="LucidaoNftCollection.addWhitelistAddressesForMinterRole">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-1593" rx="158" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1588.8" font-family="Times,serif" font-size="14.00" style="">addWhitelistAddressesForMinterRole</text>
+</g>
+<!-- LucidaoNftCollection.removeAddressesFromWhitelistForMinterRole -->
+<g id="node36" class="node" pointer-events="visible" data-name="LucidaoNftCollection.removeAddressesFromWhitelistForMinterRole">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-1539" rx="193.87" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-1534.8" font-family="Times,serif" font-size="14.00" style="">removeAddressesFromWhitelistForMinterRole</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.onlyMinter -->
+<g id="node45" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.onlyMinter">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="268.89,-2461.54 268.89,-2476.46 234.36,-2487 185.52,-2487 150.98,-2476.46 150.98,-2461.54 185.52,-2451 234.36,-2451 268.89,-2461.54" style=""/>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="272.89,-2458.58 272.89,-2479.42 234.95,-2491 184.92,-2491 146.98,-2479.42 146.98,-2458.58 184.92,-2447 234.95,-2447 272.89,-2458.58" style=""/>
+<text text-anchor="middle" x="209.94" y="-2464.8" font-family="Times,serif" font-size="14.00" style="">onlyMinter</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.IAccessControl -->
+<g id="node52" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.IAccessControl">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2469" rx="71.2" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2464.8" font-family="Times,serif" font-size="14.00" style="">IAccessControl</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.onlyMinter&#45;&gt;LucidaoNftCollateralRetriever.IAccessControl -->
+<g id="edge34" class="edge" data-name="LucidaoNftCollateralRetriever.onlyMinter-&gt;LucidaoNftCollateralRetriever.IAccessControl">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M273.2,-2469C339,-2469 443.02,-2469 515.07,-2469" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="515.46,-2472.5 525.46,-2469 515.46,-2465.5 515.46,-2472.5" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever._msgSender -->
+<g id="node53" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever._msgSender">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2413" rx="58.55" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2408.8" font-family="Times,serif" font-size="14.00" style="">_msgSender</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.onlyMinter&#45;&gt;LucidaoNftCollateralRetriever._msgSender -->
+<g id="edge35" class="edge" data-name="LucidaoNftCollateralRetriever.onlyMinter-&gt;LucidaoNftCollateralRetriever._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M273.2,-2459.94C344.77,-2449.53 461.58,-2432.53 533.27,-2422.1" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="534.12,-2425.51 543.51,-2420.61 533.11,-2418.58 534.12,-2425.51" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.initialize -->
+<g id="node46" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.initialize">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-2527" rx="44.65" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2522.8" font-family="Times,serif" font-size="14.00" style="">initialize</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init -->
+<g id="node47" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2525" rx="156.83" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2520.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoNftCollateralRetriever_init</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.initialize&#45;&gt;LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init -->
+<g id="edge36" class="edge" data-name="LucidaoNftCollateralRetriever.initialize-&gt;LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M255.08,-2526.77C298,-2526.55 365.89,-2526.19 429.81,-2525.86" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="430.05,-2529.36 440.03,-2525.81 430.01,-2522.36 430.05,-2529.36" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init_unchained -->
+<g id="node48" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-2473" rx="201.36" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-2468.8" font-family="Times,serif" font-size="14.00" style="">__LucidaoNftCollateralRetriever_init_unchained</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init&#45;&gt;LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init_unchained -->
+<g id="edge39" class="edge" data-name="LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init-&gt;LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M700.11,-2511.44C751.41,-2504.64 813.91,-2496.36 867.74,-2489.22" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="868.23,-2492.69 877.68,-2487.9 867.31,-2485.75 868.23,-2492.69" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.__Context_init_unchained -->
+<g id="node54" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.__Context_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-2527" rx="113.49" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-2522.8" font-family="Times,serif" font-size="14.00" style="">__Context_init_unchained</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init&#45;&gt;LucidaoNftCollateralRetriever.__Context_init_unchained -->
+<g id="edge37" class="edge" data-name="LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init-&gt;LucidaoNftCollateralRetriever.__Context_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M753.7,-2525.79C791.52,-2525.99 831.43,-2526.19 867.47,-2526.37" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="867.5,-2529.87 877.52,-2526.43 867.54,-2522.87 867.5,-2529.87" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.__ERC721Holder_init_unchained -->
+<g id="node55" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.__ERC721Holder_init_unchained">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="991.14" cy="-2419" rx="142.99" ry="18" style=""/>
+<text text-anchor="middle" x="991.14" y="-2414.8" font-family="Times,serif" font-size="14.00" style="">__ERC721Holder_init_unchained</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init&#45;&gt;LucidaoNftCollateralRetriever.__ERC721Holder_init_unchained -->
+<g id="edge38" class="edge" data-name="LucidaoNftCollateralRetriever.__LucidaoNftCollateralRetriever_init-&gt;LucidaoNftCollateralRetriever.__ERC721Holder_init_unchained">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M715.61,-2513.21C729.05,-2508.97 742.08,-2503.37 753.71,-2496 776.83,-2481.33 766.23,-2460.09 789.71,-2446 805.47,-2436.55 823.16,-2429.83 841.34,-2425.13" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="842.27,-2428.5 851.18,-2422.78 840.64,-2421.69 842.27,-2428.5" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.getCollectionFactory -->
+<g id="node49" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.getCollectionFactory">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-2411" rx="92.63" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2406.8" font-family="Times,serif" font-size="14.00" style="">getCollectionFactory</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.burnNft -->
+<g id="node50" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.burnNft">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2357" rx="41.71" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2352.8" font-family="Times,serif" font-size="14.00" style="">burnNft</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.burnNft&#45;&gt;LucidaoNftCollateralRetriever._msgSender -->
+<g id="edge41" class="edge" data-name="LucidaoNftCollateralRetriever.burnNft-&gt;LucidaoNftCollateralRetriever._msgSender">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M249.76,-2362.31C288.73,-2367.66 350.49,-2376.23 403.87,-2384 447.31,-2390.32 496.23,-2397.72 533.81,-2403.46" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="533.68,-2406.98 544.09,-2405.03 534.73,-2400.06 533.68,-2406.98" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.ERC721Burnable -->
+<g id="node56" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.ERC721Burnable">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2357" rx="79.9" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2352.8" font-family="Times,serif" font-size="14.00" style="">ERC721Burnable</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.burnNft&#45;&gt;LucidaoNftCollateralRetriever.ERC721Burnable -->
+<g id="edge40" class="edge" data-name="LucidaoNftCollateralRetriever.burnNft-&gt;LucidaoNftCollateralRetriever.ERC721Burnable">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M251.76,-2357C312.05,-2357 426.42,-2357 506.69,-2357" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="506.8,-2360.5 516.8,-2357 506.8,-2353.5 506.8,-2360.5" style=""/>
+</g>
+<!-- LucidaoNftCollateralRetriever.onERC721Received -->
+<g id="node51" class="node" pointer-events="visible" data-name="LucidaoNftCollateralRetriever.onERC721Received">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-2303" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2298.8" font-family="Times,serif" font-size="14.00" style="">onERC721Received</text>
+</g>
+<!-- OwnableUpgradeable.onERC721Received -->
+<g id="node81" class="node" pointer-events="visible" data-name="OwnableUpgradeable.onERC721Received">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="596.79" cy="-2218" rx="89.77" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-2213.8" font-family="Times,serif" font-size="14.00" style="">onERC721Received</text>
+</g>
+<!-- LucidaoNftCollateralRetriever.onERC721Received&#45;&gt;OwnableUpgradeable.onERC721Received -->
+<g id="edge42" class="edge" data-name="LucidaoNftCollateralRetriever.onERC721Received-&gt;OwnableUpgradeable.onERC721Received">
+
+<path fill="none" stroke="white" stroke-width="2" d="M271.07,-2289.72C340.02,-2274.49 452.9,-2249.56 525.76,-2233.47" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="526.75,-2236.83 535.76,-2231.26 525.24,-2230 526.75,-2236.83" style=""/>
+</g>
+<!-- LucidaoLicenseManager.&lt;Constructor&gt; -->
+<g id="node57" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="209.94" cy="-2936" rx="67.54" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2931.8" font-family="Times,serif" font-size="14.00" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- LucidaoLicenseManager.getDiscount -->
+<g id="node58" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.getDiscount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2882" rx="57.9" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2877.8" font-family="Times,serif" font-size="14.00" style="">getDiscount</text>
+</g>
+<!-- LucidaoLicenseManager.setDiscount -->
+<g id="node59" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.setDiscount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2828" rx="56.76" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2823.8" font-family="Times,serif" font-size="14.00" style="">setDiscount</text>
+</g>
+<!-- LucidaoLicenseManager.isAQualifiedOracle -->
+<g id="node60" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.isAQualifiedOracle">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2774" rx="86.79" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2769.8" font-family="Times,serif" font-size="14.00" style="">isAQualifiedOracle</text>
+</g>
+<!-- LucidaoLicenseManager.setStakingService -->
+<g id="node61" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.setStakingService">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2720" rx="80.45" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2715.8" font-family="Times,serif" font-size="14.00" style="">setStakingService</text>
+</g>
+<!-- LucidaoLicenseManager.setStakingServicePid -->
+<g id="node62" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.setStakingServicePid">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2666" rx="93.21" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2661.8" font-family="Times,serif" font-size="14.00" style="">setStakingServicePid</text>
+</g>
+<!-- LucidaoLicenseManager.setStakedTokensForOracleEligibility -->
+<g id="node63" class="node" pointer-events="visible" data-name="LucidaoLicenseManager.setStakedTokensForOracleEligibility">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-2612" rx="154.57" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-2607.8" font-family="Times,serif" font-size="14.00" style="">setStakedTokensForOracleEligibility</text>
+</g>
+<!-- ILicenseManager.getDiscount -->
+<g id="node64" class="node" pointer-events="visible" data-name="ILicenseManager.getDiscount">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3075" rx="57.9" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3070.8" font-family="Times,serif" font-size="14.00" style="">getDiscount</text>
+</g>
+<!-- ILicenseManager.isAQualifiedOracle -->
+<g id="node65" class="node" pointer-events="visible" data-name="ILicenseManager.isAQualifiedOracle">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3021" rx="86.79" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3016.8" font-family="Times,serif" font-size="14.00" style="">isAQualifiedOracle</text>
+</g>
+<!-- IStakingService.userInfo -->
+<g id="node66" class="node" pointer-events="visible" data-name="IStakingService.userInfo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3214" rx="43.42" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3209.8" font-family="Times,serif" font-size="14.00" style="">userInfo</text>
+</g>
+<!-- IStakingService.poolInfo -->
+<g id="node67" class="node" pointer-events="visible" data-name="IStakingService.poolInfo">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3160" rx="44.09" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3155.8" font-family="Times,serif" font-size="14.00" style="">poolInfo</text>
+</g>
+<!-- INftCollectionVaultService.getVaultServiceDeadline -->
+<g id="node72" class="node" pointer-events="visible" data-name="INftCollectionVaultService.getVaultServiceDeadline">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="596.79" cy="-1099" rx="108.2" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1094.8" font-family="Times,serif" font-size="14.00" style="">getVaultServiceDeadline</text>
+</g>
+<!-- INftCollectionVaultService.setVaultServiceDeadline -->
+<g id="node73" class="node" pointer-events="visible" data-name="INftCollectionVaultService.setVaultServiceDeadline">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="596.79" cy="-1045" rx="107.06" ry="18" style=""/>
+<text text-anchor="middle" x="596.79" y="-1040.8" font-family="Times,serif" font-size="14.00" style="">setVaultServiceDeadline</text>
+</g>
+<!-- IFeeManager.receiveZeroExFeeCallback -->
+<g id="node74" class="node" pointer-events="visible" data-name="IFeeManager.receiveZeroExFeeCallback">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3353" rx="116.27" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3348.8" font-family="Times,serif" font-size="14.00" style="">receiveZeroExFeeCallback</text>
+</g>
+<!-- IFeeManager.isRedemptionFeePaid -->
+<g id="node75" class="node" pointer-events="visible" data-name="IFeeManager.isRedemptionFeePaid">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="209.94" cy="-3299" rx="95.58" ry="18" style=""/>
+<text text-anchor="middle" x="209.94" y="-3294.8" font-family="Times,serif" font-size="14.00" style="">isRedemptionFeePaid</text>
+</g>
+<!-- key -->
+<g id="node82" class="node" pointer-events="visible" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="274.94,-3508 144.94,-3508 144.94,-3420 274.94,-3420 274.94,-3508" style=""/>
+<text text-anchor="start" x="194.57" y="-3489.4" font-family="Times,serif" font-size="14.00" style="">Internal Call</text>
+<text text-anchor="start" x="190.68" y="-3469.4" font-family="Times,serif" font-size="14.00" style="">External Call</text>
+<text text-anchor="start" x="168.14" y="-3449.4" font-family="Times,serif" font-size="14.00" style="">Defined Contract</text>
+<text text-anchor="start" x="154.54" y="-3429.4" font-family="Times,serif" font-size="14.00" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node83" class="node" pointer-events="visible" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="623.79,-3508 569.79,-3508 569.79,-3420 623.79,-3420 623.79,-3508" style=""/>
+<text text-anchor="start" x="584.55" y="-3489.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<text text-anchor="start" x="584.55" y="-3469.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="#445773" stroke="transparent" points="582.79,-3444 582.79,-3464 610.79,-3464 610.79,-3444 582.79,-3444" style=""/>
+<text text-anchor="start" x="584.55" y="-3449.4" font-family="Times,serif" font-size="14.00" style="">   </text>
+<polygon fill="none" stroke="#e8726d" points="584.79,-3426 584.79,-3442 608.79,-3442 608.79,-3426 584.79,-3426" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge43" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M267.94,-3494C404.02,-3494 440.54,-3494 571.76,-3494" style=""/>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="571.79,-3497.5 581.79,-3494 571.79,-3490.5 571.79,-3497.5" style=""/>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge44" class="edge" data-name="key-&gt;key2">
+
+<path fill="none" stroke="white" stroke-width="2" d="M267.94,-3474C404.02,-3474 440.54,-3474 571.76,-3474" style=""/>
+<polygon fill="white" stroke="white" stroke-width="2" points="571.79,-3477.5 581.79,-3474 571.79,-3470.5 571.79,-3477.5" style=""/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  lucidaomarketplacesmartcontracts:
+    image: lucidaomarketplacesmartcontracts
+    build:
+      context: ../
+      dockerfile: Dockerfile
+    environment:
+      NODE_ENV: development
+    volumes:
+      - ../:/usr/src/app/
+      - lucidaomarketplace_node_modules:/usr/src/app/node_modules
+      - lucidaomarketplace_vscodeserver:/home/node/.vscode-server
+    ports:
+      - 8546:8545
+      - 9230:9229
+    command: ["bash", "/usr/src/app/docker/script/entrypoint.sh"]
+
+volumes:
+  lucidaomarketplace_node_modules:
+  lucidaomarketplace_vscodeserver:
